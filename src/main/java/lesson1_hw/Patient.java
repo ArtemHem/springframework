@@ -19,7 +19,6 @@ public class Patient {
         PatientCard patientCard = context.getBean("patientCard", PatientCard.class);
         patientCard.setCabinetNumber("578");
         patientCard.printCabinetNumber();
-
     }
 
 }

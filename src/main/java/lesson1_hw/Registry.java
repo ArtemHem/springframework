@@ -8,5 +8,4 @@ public class Registry {
 //        PatientCard patientCart = new PatientCard(cabinet);
 //        patientCart.printCabinetNumber();
     }
-
 }

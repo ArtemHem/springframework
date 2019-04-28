@@ -29,5 +29,4 @@ public class PatientCard implements IPatientCard {
         String cabinetNumber = cabinet.getCabinetNumber();
         System.out.println(cabinetNumber);
     }
-
 }

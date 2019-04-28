@@ -10,6 +10,7 @@
     <!--<bean id="cabinet" class="lesson1_hw.Cabinet">-->
         <!--<property name="cabinetNumber" value="899"/>-->
     <!--</bean>-->
+
     <bean id="patientCard" class="lesson1_hw.PatientCard">
         <property name="cabinet">
             <ref bean="cabinet"/>

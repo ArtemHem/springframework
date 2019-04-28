@@ -15,4 +15,5 @@ public class Cabinet implements ICabinet {
     public void setCabinetNumber(String cabinetNumber) {
         this.cabinetNumber = cabinetNumber;
     }
+
 }
