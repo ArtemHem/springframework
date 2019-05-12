@@ -5,5 +5,4 @@ public interface IPatientCard {
     public void printCabinetNumber();
 
     public void setCabinetNumber(String cabinetNumber);
-
 }
